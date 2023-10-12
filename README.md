@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Iris Marjollet 👋
+I'm an engineering student at Télécom SudParis. 
+On my GitHub profile, you can see all my projects.
 
 <!--
 **Iris-Marjollet/Iris-Marjollet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
