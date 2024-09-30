@@ -1,5 +1,5 @@
 ### Hello, I'm Iris Marjollet 👋
-I'm an engineering student at Télécom SudParis. 
+I'm an engineer in computer science who recently gratuated from Télécom SudParis. 
 On my GitHub profile, you can see all my projects.
 
 <!--
